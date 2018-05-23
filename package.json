@@ -1,0 +1,14 @@
+{
+  "name": "blockchain1",
+  "version": "1.0.0",
+  "description": "https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rodrigo M. Marzullo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
